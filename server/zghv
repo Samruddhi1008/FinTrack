@@ -1,0 +1,10 @@
+server/
+├── models/
+│   └── Transaction.js
+├── routes/
+│   └── transactionRoutes.js
+├── config/
+│   └── db.js
+├── .env
+├── server.js
+├── package.json

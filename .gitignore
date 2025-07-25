@@ -1,0 +1,19 @@
+# Ignore node_modules from both client and server
+client/node_modules/
+server/node_modules/
+
+# Optional: Ignore environment files
+client/.env
+server/.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore log files
+*.log
+npm-debug.log*
+
+# Ignore build artifacts
+client/build/
+server/dist/
